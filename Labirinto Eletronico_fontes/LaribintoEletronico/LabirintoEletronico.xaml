@@ -1,0 +1,97 @@
+﻿<Window x:Class="LaribintoEletronico.LabirintoEletronico"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen" WindowState="Maximized"
+        Title="Labirinto Eletrônico" Height="600" Width="1024">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="300"/>
+        </Grid.ColumnDefinitions>
+
+        <Rectangle Grid.Row="0" Grid.ColumnSpan="3" Margin="5">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0" >
+                    <GradientStop Color="Cyan" Offset="0.0" />
+                    <GradientStop Color="DarkCyan" Offset="0.3" />
+                    <GradientStop Color="DarkCyan" Offset="0.7" />
+                    <GradientStop Color="Cyan" Offset="1.0" />
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="3"  Text="Labirinto Eletrônico" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily=".\aspace_demo.otf#a•space" FontSize="40" Foreground="White"/>
+
+        <Grid x:Name="gridEsq" Grid.Column="0" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Melhores Marcas" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontFamily="Calibri" FontSize="20" Foreground="Gray"/>
+            <TextBlock Text="➜" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Arial" FontSize="32" Foreground="Gray"/>
+            
+            <StackPanel x:Name="spRecordesEsq" Grid.Row="2" HorizontalAlignment="Center"/>
+
+        </Grid>
+
+        <Grid x:Name="gridCen" Grid.Column="1" Grid.Row="1">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>                
+            </Grid.RowDefinitions>
+            
+            <Rectangle Grid.RowSpan="3" Width="1" Fill="Gray" HorizontalAlignment="Left" Margin="0,10"/>
+            <Rectangle Grid.RowSpan="3" Width="1" Fill="Gray" HorizontalAlignment="Right" Margin="0,10"/>
+
+
+            <StackPanel Orientation="Vertical" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,10,0,0">
+                <TextBlock x:Name="txtbSentidoDescricao" Text="sentido do percurso" HorizontalAlignment="Center" FontFamily=".\aspace_demo.otf#a•space" FontSize="24" Foreground="Gray"/>
+                <TextBlock x:Name="txtbSentido" Text="➜" HorizontalAlignment="Center" FontFamily="Arial" FontSize="64" Foreground="Gray" RenderTransformOrigin="0.5, 0.5"/>
+                <Rectangle x:Name="recImagemDisp" Width="240" Height="180" Margin="0,-40,0,0" Fill="Gray">
+                    <Rectangle.OpacityMask>
+                        <ImageBrush ImageSource="imaDisp.png"/>
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </StackPanel>
+            
+            <TextBlock x:Name="txtbMsgInicial" Grid.Row="1" Text="Pressione um dos botões para iniciar" TextWrapping="Wrap" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily=".\aspace_demo.otf#a•space" FontSize="24" Margin="0,0,0,60" Foreground="Gray"/>
+            
+            <TextBlock x:Name="txtbTempo" Grid.Row="1" Text="88:11.7" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily=".\MonospaceTypewriter.ttf#MonospaceTypewriter" FontSize="80" Margin="0,0,0,60" Foreground="Gray"/>
+            
+            <TextBlock x:Name="txtbToques" Grid.Row="1" Margin="0,150,0,0" Text="0 toques" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontFamily=".\aspace_demo.otf#a•space" FontSize="32" Foreground="Gray"/>
+            <TextBlock x:Name="txtbPosicao" Grid.Row="1" Margin="0,250,0,0" Text="5º lugar" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontFamily=".\aspace_demo.otf#a•space" FontSize="32" Foreground="Gray"/>
+
+            <TextBlock Grid.Row="1" x:Name="txtbStatus" Text="Dispositivo desconectado" FontFamily="Calibri" FontSize="16" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5" Foreground="Gray"/>
+            
+        </Grid>
+
+        <Grid x:Name="gridDir" Grid.Column="2" Grid.Row="1">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <TextBlock Text="Melhores Marcas" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontFamily="Calibri" FontSize="20" Foreground="Gray"/>
+            <TextBlock Text="➜" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Arial" FontSize="32" Foreground="Gray" RenderTransformOrigin="0.5, 0.5">                
+                <TextBlock.RenderTransform>                                        
+                    <ScaleTransform ScaleX="-1"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+
+            <StackPanel x:Name="spRecordesDir" Grid.Row="2" HorizontalAlignment="Center"/>
+            
+        </Grid>
+        
+    </Grid>
+</Window>

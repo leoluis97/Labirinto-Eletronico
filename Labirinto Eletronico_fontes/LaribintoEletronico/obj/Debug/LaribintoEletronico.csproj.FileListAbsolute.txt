@@ -1,0 +1,52 @@
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\bin\Debug\LaribintoEletronico.exe.config
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\bin\Debug\LaribintoEletronico.exe
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\bin\Debug\LaribintoEletronico.pdb
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\bin\Debug\Bass.Net.dll
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LabirintoEletronico.baml
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\MainWindow.baml
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\ucColocacao.baml
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LabirintoEletronico.g.cs
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\MainWindow.g.cs
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\ucColocacao.g.cs
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\App.g.cs
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico_MarkupCompile.cache
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.g.resources
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.Properties.Resources.resources
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.csproj.GenerateResource.Cache
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.exe
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.pdb
+D:\Programacao\VC# 2013\WPF\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.csprojResolveAssemblyReference.cache
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\bin\Debug\LaribintoEletronico.exe.config
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.exe
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.pdb
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.csprojResolveAssemblyReference.cache
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LabirintoEletronico.baml
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\ucColocacao.baml
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LabirintoEletronico.g.cs
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\ucColocacao.g.cs
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\App.g.cs
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico_MarkupCompile.cache
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.g.resources
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.Properties.Resources.resources
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\obj\Debug\LaribintoEletronico.csproj.GenerateResource.Cache
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\bin\Debug\LaribintoEletronico.exe
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\bin\Debug\LaribintoEletronico.pdb
+C:\Users\Dri\Desktop\LaribintoEletronico\LaribintoEletronico\bin\Debug\Bass.Net.dll
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\bin\Debug\LaribintoEletronico.exe.config
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\bin\Debug\LaribintoEletronico.exe
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\bin\Debug\LaribintoEletronico.pdb
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\bin\Debug\Bass.Net.dll
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico.csprojAssemblyReference.cache
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LabirintoEletronico.baml
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\ucColocacao.baml
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LabirintoEletronico.g.cs
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\ucColocacao.g.cs
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\App.g.cs
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico_MarkupCompile.cache
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico.g.resources
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico.Properties.Resources.resources
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico.csproj.GenerateResource.cache
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico.csproj.CopyComplete
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico.exe
+C:\Users\Leonardo\Documents\USP\TCC\Labirinto Eletronico_fontes\LaribintoEletronico\obj\Debug\LaribintoEletronico.pdb
